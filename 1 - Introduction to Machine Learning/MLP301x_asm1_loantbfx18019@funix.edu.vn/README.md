@@ -1,1 +1,3 @@
-- Tảo 
+- Download file zip "MLP301x_asm1_loantbfx18019@funix.edu.vn" => unzip 
+- Open this folder
+- Run file "lastname_firstname_grade_the_exams.py"
